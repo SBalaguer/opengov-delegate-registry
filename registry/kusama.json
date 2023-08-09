@@ -230,5 +230,13 @@
         "shortDescription": "Polkadot Moderator, Ambassador and full time Dev. I actively contribute to, advocate for, and guide the community's growth and progress.",
         "longDescription": "As a voting delegate at Kusama, I vote on proposals after deep understanding and discussions with community members. If a proposal is unclear, I abstain from voting. My aim is to ensure informed voting that benefits our community and drives progress.",
         "isOrganization": false
+    },
+    {
+        "address": "FZ71egMouzdJJhdougGW3KFiLAXsEeSkYwNn5drXSEvH3FM",
+        "name": "Alianza Hispana",
+        "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/alianza_hispana_192x192.png",
+        "shortDescription": "A collective that represents the values and interest of the Hispanic Polkadot Community, promoting inclussion and innovation.",
+        "longDescription": "This collective is formed by people from the Polkadot and Kusama ecosystems from diverse backgrounds, from node operatores to ambassadors, with a common goal: to represent the Hispanic Community in Polkadot and Kusama's Governance system, always with a strong commitment on the overall wellbeing of the network. A full copy of the manifest, in Spanish, can be found here: https://shorturl.at/fizAN",
+        "isOrganization": true
     }
 ]
